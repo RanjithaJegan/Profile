@@ -1,4 +1,4 @@
-[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://https://github.com/ RanjithaJegan)
+[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://https://github.com/RanjithaJegan)
 <h1 align="center">Hi 👋, I'm Ranjitha</h1>
 <h3 align="center">An Aspiring Mern Stack web developer </h3>
 <div align="center">
@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username= RanjithaJegan&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjitha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RanjithaJegan&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjitha" /> </p>
 
 ~ 💻 I'm a **Computer Science** student.
 
@@ -42,24 +42,24 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= RanjithaJegan&show_icons=true&locale=en&layout=compact" alt="Ranjitha" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanjithaJegan&show_icons=true&locale=en&layout=compact" alt="Ranjitha" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username= RanjithaJegan&show_icons=true&locale=en" alt="Ranjitha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RanjithaJegan&show_icons=true&locale=en" alt="Ranjitha" />
 </p>
 
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username= RanjithaJegan&theme=radical&no-bg=true)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=RanjithaJegan&theme=radical&no-bg=true)
 
 </div>
 
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= RanjithaJegan&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjithaJegan&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </p>
 
 <div align="center">
